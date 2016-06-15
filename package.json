@@ -1,0 +1,23 @@
+{
+  "name": "azureiotdevice-simplenode",
+  "version": "1.0.0",
+  "description": "A simple node.js Azure IoT device",
+  "main": "app.js",
+  "dependencies": {
+    "azure-iot-device": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HLDAzure/AzureIoTdevice-simplenode.git"
+  },
+  "author": "HLD Azure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HLDAzure/AzureIoTdevice-simplenode/issues"
+  },
+  "homepage": "https://github.com/HLDAzure/AzureIoTdevice-simplenode#readme"
+}
